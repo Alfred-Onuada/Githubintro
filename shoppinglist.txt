@@ -1,6 +1,6 @@
-Shopping LIst
+Shopping List
 
-Apple
+Green Apple
 Oranges
 Bananas
 Cherries
